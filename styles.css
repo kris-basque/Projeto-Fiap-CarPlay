@@ -1,0 +1,132 @@
+.cor-coluna-menu {
+    background-color: rgba(214, 214, 214, 0.568);
+}
+
+.cor-coluna-content {
+    background-color: rgb(240, 240, 240);
+}
+
+.text-time {
+    font-size: 40px;
+}
+
+.text-5g {
+    font-size: 22px;
+    margin-right: 6px;
+    margin-bottom: 20px;
+}
+
+.text-menu {
+    color: rgb(22, 22, 22);
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+.img-icone-internet {
+    padding: 0px;
+    align-items: center;
+}
+
+.img-icones-menu {
+    padding-top: 20px;
+    padding-bottom: 32px;
+    width: 110px;
+}
+
+.img-menu-more {
+    padding-top: 40px;
+    padding-bottom: 32px;
+    width: 100px;
+}
+
+.img-icones-grande {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 160px;
+}
+
+.spacing-icones-grandes {
+    padding-top: 100px;
+}
+
+.menu-principal-myhome-icones-grandes {
+    width: 440px;
+}
+
+.menu-principal-myhome-icones-pequenos {
+    width: 280px;
+}
+
+.image-dropdown {
+    margin-right: 250px;
+    margin-top: 100px;
+}
+
+.textos-padrao-telas {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+
+.spacing-entre-itens {
+    padding-top: 40px;
+}
+
+.texto-luz {
+    margin-left: 22px;
+}
+
+.spacing-entre-itens-menor {
+    padding-top: 20px;
+}
+
+.spacing-entre-slide {
+    padding-left: 40px;
+}
+
+.botao-ligar {
+    margin-top: 100px;
+}
+
+.img-icones-abrir-portao {
+    padding-top: 200px;
+    width: 600px;
+}
+
+.img-roomba {
+    width: 400px;
+}
+
+.button-esvaziar-lixeira {
+    padding-left: 156px;
+}
+
+.img-texto-pronto-aspirar {
+    width: 200px;
+    margin-right: 262px;
+}
+
+.button-favoritar {
+    width: 156px;
+    margin-right: 46px;
+}
+
+.botao-limpar-comodos {
+    width: 300px;
+}
+
+.image-class-background-ar-condicionado {
+    background-image: url("assets/icons/bg-image-ar.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.image-class-background-iluminacao {
+    background-image: url("assets/icons/carplay_Iluminacao.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.botoes-ar-condicionado {
+    padding-top: 140px;
+}
